@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RifqiAbbiyu6822/gifmd/blob/main/spike-spiegel-smoking-cowboy-bebop-moewalls-com%20(1)%20(1)%20(1).gif" alt="Spike Spiegel Smoking - Cowboy Bebop"/>
+  <img src="https://github.com/RifqiAbbiyu6822/gifmd/blob/main/spike-spiegel-smoking-cowboy-bebop-moewalls-com%20(1)%20(1)%20(1).gif"/>
 </p>
 
 <table>
