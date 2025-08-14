@@ -8,7 +8,7 @@
       <h1 align="left">LOGBOOK: Rifqi Abbiyu</h1>
       <samp>
         <p align="left">
-          Just a cosmic drifter navigating the digital universe from West Java, Indonesia. Usually fueled by good music and instant noodles. Not looking for trouble, but it seems to find me anyway.
+         Somewhere between Yogyakarta sunsets and fiber optic dreams, building tomorrow with today's leftovers. The universe keeps sending plot twists - I keep hitting play.
         </p>
         <p align="left">
           "Whatever happens, happens."
